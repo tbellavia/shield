@@ -28,6 +28,10 @@
 
 
 ### Blogs
+- [Practical Common Lisp](https://gigamonkeys.com/book/)
+- [SICP](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html#%_toc_start)
+- [Crafting Interpreters](https://craftinginterpreters.com/)
+- [Game Programming Patterns](https://gameprogrammingpatterns.com/)
 
 
 ### Aggregators
