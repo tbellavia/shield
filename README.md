@@ -1,12 +1,11 @@
 # SHIELD
 
-
-
 ### Podcasts
 - [Le code a changé](https://www.franceinter.fr/emissions/le-code-a-change)
 - [Silicon Carne](https://www.frenchweb.fr/silicon-carne)
 - [Lex Fridman](https://lexfridman.com/podcast/)
-- [Guerre de business]()
+- [Guerre de business](https://podcasts.apple.com/fr/podcast/guerres-de-business/id1485274727)
+- [Business Wars](https://podcasts.apple.com/fr/podcast/business-wars/id1335814741)
 - [Le Meilleur des mondes](https://www.radiofrance.fr/franceculture/podcasts/le-meilleur-des-mondes)
 - [CoRecursive](https://corecursive.com/)
 - [Changelog](https://changelog.com/weekly)
@@ -25,7 +24,7 @@
 
 ### Newsletter
 - [hackernews](https://hackernewsletter.com/)
-- [changelog]()
+- [changelog](https://keepachangelog.com/fr/1.0.0/)
 
 
 ### Blogs
